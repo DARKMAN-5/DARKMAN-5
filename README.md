@@ -17,9 +17,9 @@
 [![Badge](https://cp-logo.vercel.app/atcoder/DARK_MAN?logo=true)](https://atcoder.jp/users/DARK_MAN)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=DARKMAN-5.DARKMAN-5)
 
-![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=radical)
+![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKMAN-5&layout=compact&count_private=true&langs_count=5&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKMAN-5&layout=compact&count_private=true&langs_count=5&theme=tokyonight)
 
 <!--
 **DARKMAN-5/DARKMAN-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
