@@ -11,10 +11,11 @@
 
 - 🔭 **Handles** : 
 [![Badge](https://cp-logo.vercel.app/leetcode/dark_man5?logo=true)](https://leetcode.com/dark_man5/)
-[![Badge](https://cp-logo.vercel.app/codechef/dark_man?logo=true)](https://www.codechef.com/users/dark_man)
-[![Badge](https://cp-logo.vercel.app/codeforces/dark_man55?logo=true)](https://codeforces.com/profile/dark_man55)
-[![Badge](https://cp-logo.vercel.app/atcoder/DARK_MAN?logo=true)](https://atcoder.jp/users/DARK_MAN)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=DARKMAN-5.DARKMAN-5)
+<!-- [![Badge](https://cp-logo.vercel.app/codechef/dark_man?logo=true)](https://www.codechef.com/users/dark_man)
+[![Badge](https://cp-logo.vercel.app/codeforces/dark_man55?logo=true)](https://codeforces.com/profile/dark_man55)
+[![Badge](https://cp-logo.vercel.app/atcoder/DARK_MAN?logo=true)](https://atcoder.jp/users/DARK_MAN) -->
+
 
 ![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=tokyonight)
 
