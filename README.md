@@ -9,8 +9,6 @@
   <a href="mailto:paragthakre53@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parag-thakre-4688a31ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 
-- 🔭 **Handles** : 
-[![Badge](https://cp-logo.vercel.app/leetcode/dark_man5?logo=true)](https://leetcode.com/dark_man5/)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=DARKMAN-5.DARKMAN-5)
 
 ![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=tokyonight)
