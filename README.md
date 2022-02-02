@@ -11,7 +11,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=DARKMAN-5.DARKMAN-5)
 
-![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Parag Thakre's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKMAN-5&count_private=true&show_icons=true&theme=tokyonight) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKMAN-5&layout=compact&count_private=true&langs_count=5&theme=tokyonight)
 
