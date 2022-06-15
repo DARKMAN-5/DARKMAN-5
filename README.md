@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
 
-### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I'm Parag Thakre! A 3rd year undergraduate at IIIT Vadodara.
+### Hi, I'm Parag Thakre! A 3rd year undergraduate at IIIT Vadodara.
  
 - 👯 I’m looking to collaborate on **Web Projects**.
 - 🤔 I’m looking for help with **Open Source Project**.
